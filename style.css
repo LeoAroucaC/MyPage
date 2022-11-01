@@ -1,0 +1,55 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: Verdana;
+  
+  
+  
+}
+
+h1{
+  font-family: Cursive, Lucida Handwriting;
+  color:#00ff62;
+  text-align: center;
+  margin-top: 50px;
+  text-shadow: 2px 2px 5px #d5cdcd;
+
+  
+}
+
+#corpo{
+  text-align: center;
+  color:white;
+  font-size: 15px;
+}
+
+p{
+  text-align: center;
+  color:white;
+  font-size:17px;
+    
+  
+}
+
+#text{
+  font-size:15px;
+  
+
+}
+img{
+  height: 220px;
+  width: 210px;
+  border-radius: 50%;
+  position: relative;
+  display: block; 
+  margin-left: auto; 
+  margin-right: auto
+  
+}
+body{
+  
+background-image:url("https://i.pinimg.com/originals/b0/f9/5d/b0f95d232c6aa2dd5b91fa3f1a3a6532.gif");
+  
+background-attachment: fixed;
+  
+}
